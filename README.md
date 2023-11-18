@@ -1,4 +1,4 @@
-Vite React
-eslint & Prettier Config
-React-query
-React-router
+- Vite React
+- eslint & Prettier Config
+- React-query
+- React-router

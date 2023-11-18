@@ -1,4 +1,4 @@
 Vite React
-eslint & Prettier COnfig
+eslint & Prettier Config
 React-query
 React-router
